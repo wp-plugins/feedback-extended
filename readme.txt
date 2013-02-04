@@ -1,4 +1,4 @@
-=== Recently Updated Pages ===
+=== Feedback Extended ===
 Contributors: Ehsanul Haque
 Author URI: http://ehsanIs.me/
 Tags: feedback, reply, extended, jetpack, contact form
